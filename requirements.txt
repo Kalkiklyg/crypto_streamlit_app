@@ -1,5 +1,6 @@
-streamlit
+binance-connector
+python-dotenv
 pandas
 numpy
+streamlit
 requests
-binance
